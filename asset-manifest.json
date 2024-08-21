@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WLC/static/css/main.30c384af.css",
+    "main.js": "/WLC/static/js/main.d0c2258d.js",
+    "static/js/453.09c9c99b.chunk.js": "/WLC/static/js/453.09c9c99b.chunk.js",
+    "index.html": "/WLC/index.html",
+    "main.30c384af.css.map": "/WLC/static/css/main.30c384af.css.map",
+    "main.d0c2258d.js.map": "/WLC/static/js/main.d0c2258d.js.map",
+    "453.09c9c99b.chunk.js.map": "/WLC/static/js/453.09c9c99b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c384af.css",
+    "static/js/main.d0c2258d.js"
+  ]
+}
